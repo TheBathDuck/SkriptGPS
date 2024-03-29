@@ -8,6 +8,10 @@
 
 As the plugin is a paid resource I can't provide it on github.
 
+### Requirements:
+- [Skript](https://github.com/SkriptLang/Skript/releases)
+- [GPS](https://www.spigotmc.org/resources/gps-1-9-1-20-global-positioning-system-for-your-server.53672/)
+
 ### Effects:
 Start GPS - ``start gps for %player% to %string%``
 
