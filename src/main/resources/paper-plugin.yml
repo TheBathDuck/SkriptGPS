@@ -1,0 +1,9 @@
+name: "SkriptGPS"
+version: "1.0"
+main: "nl.thebathduck.skriptgps.SkriptGPSPlugin"
+api-version: "1.20"
+dependencies:
+  - name: Skript
+    required: true
+  - name: GPS
+    required: true
